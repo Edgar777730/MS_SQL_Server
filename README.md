@@ -59,3 +59,35 @@ DECIMAL: хранит числа c фиксированной точностью
 **8 слайд**
 <img width="747" height="929" alt="image" src="https://github.com/user-attachments/assets/412f90e8-fb5c-4924-85a8-29cb2c08da8f" />
 
+
+
+
+
+
+
+
+
+**продолжение на след паре **
+**52 слайд**
+<img width="743" height="922" alt="image" src="https://github.com/user-attachments/assets/5d0015a6-ae8b-4fc6-9421-11e6b4cc2639" />
+
+
+**54 слайд**
+<img width="953" height="1144" alt="image" src="https://github.com/user-attachments/assets/5a2a329f-6865-4bb2-88eb-21ae67c96a89" />
+
+**28 слайд там где T-sql**
+<img width="931" height="1071" alt="image" src="https://github.com/user-attachments/assets/851a331a-96e6-40c2-890b-8cc375a07895" />
+
+
+**слайд 29**
+<img width="969" height="575" alt="image" src="https://github.com/user-attachments/assets/9bdf3f6b-4f1f-4c21-ae02-5cb7245c34a4" />
+
+
+**слайд 30**\
+<img width="948" height="866" alt="image" src="https://github.com/user-attachments/assets/ca3f2616-01da-4fc6-ad86-62db85cb447c" />
+
+
+
+**слайд 31**
+<img width="957" height="1128" alt="image" src="https://github.com/user-attachments/assets/f7b236bb-e4b1-4fa5-9fc6-11be66ef6ac3" />
+
