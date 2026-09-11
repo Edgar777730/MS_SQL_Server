@@ -53,5 +53,9 @@ INT: хранит числа от –2 147 483 648 до 2 147 483 647
 BIGINT: хранит очень большие числа от -9 223 372 036 854 775 808 до 9 223 372 036 854 775 807, которые занимают в памяти 8 байт.
 DECIMAL: хранит числа c фиксированной точностью.
 
+**14 слайд:**
+<img width="744" height="768" alt="image" src="https://github.com/user-attachments/assets/1de5579e-41c0-4680-a83f-390a64d20629" />
 
+**8 слайд**
+<img width="747" height="929" alt="image" src="https://github.com/user-attachments/assets/412f90e8-fb5c-4924-85a8-29cb2c08da8f" />
 
