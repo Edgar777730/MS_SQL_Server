@@ -91,3 +91,48 @@ DECIMAL: хранит числа c фиксированной точностью
 **слайд 31**
 <img width="957" height="1128" alt="image" src="https://github.com/user-attachments/assets/f7b236bb-e4b1-4fa5-9fc6-11be66ef6ac3" />
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+на 16.09 пара скрины 
+
+начиная с 4 слайда 
+
+**4 слайд**
+<img width="570" height="834" alt="image" src="https://github.com/user-attachments/assets/de355139-0309-488a-abd7-61364729d700" />
+
+
+**слайд 6**
+
+<img width="597" height="836" alt="image" src="https://github.com/user-attachments/assets/c865fa60-5041-4445-895b-51de3870351a" />
+
+**слайд 8**
+<img width="461" height="814" alt="image" src="https://github.com/user-attachments/assets/a85c2394-a146-45ec-83e8-d295ddf72916" />
+
+
+**слайд 9**
+<img width="575" height="893" alt="image" src="https://github.com/user-attachments/assets/a21c7408-2ee5-4bd0-9704-21b18f16765e" />
+
+
+**слайд 12**
+<img width="605" height="890" alt="image" src="https://github.com/user-attachments/assets/bb80d9f4-2ddd-4311-8564-443da37c7c42" />
+
+
+
